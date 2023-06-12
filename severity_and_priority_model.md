@@ -26,8 +26,9 @@ Os títulos de severidade serão aplicados às issues do repositório do projeto
 A priorização é essencial para gerenciar efetivamente as mudanças em um projeto de software. Ela envolve a classificação das tarefas de acordo com sua necessidade e urgência, permitindo que a equipe foque nas atividades mais relevantes e críticas.
 
 ### Critérios de Prioridade:
-A priorização foi dividida em classificações representadas por notas, para as categorias de NECESSIDADE e URGÊNCIA dos problemas e funcionalidades envolvidas na aplicação. Sendo que para ambas as classificações, existe uma nota que a representa respectivamente, variando de 4 até 1, da mais urgente e necessária para a menos. 
+A priorização foi dividida em classificações representadas por notas, para as categorias de NECESSIDADE e URGÊNCIA dos problemas e funcionalidades envolvidas na aplicação. Sendo que para ambas as classificações, existe uma nota que a representa respectivamente, variando de 4 até 1, da mais urgente e necessária para a menos. A soma das notas de NECESSIDADE e URGÊNCIA atribuídas a cada issue fornece uma pontuação que reflete a criticidade. Quanto maior a pontuação, maior é a criticidade da issue e mais importante é sua resolução ou implementação. Isso permite que a equipe de desenvolvimento e gerenciamento de mudanças priorize as tarefas de forma adequada, garantindo que os problemas críticos sejam tratados prontamente e as melhorias de baixa prioridade sejam abordadas em momentos mais oportunos.
 
+#### Necessidade
 Para a categoria de NECESSIDADE, seja ela a de corrigir um problema ou adicionar uma nova funcionalidade, as classificações variam entre:
 
 - Extremamente necessário (4): problemas ou funcionalidades críticas que afetam diretamente a usabilidade ou funcionalidade essencial do software.
@@ -35,12 +36,21 @@ Para a categoria de NECESSIDADE, seja ela a de corrigir um problema ou adicionar
 - Otimização (2): melhorias que não afetam diretamente a funcionalidade principal, mas podem otimizar a experiência do usuário ou o desempenho do sistema.
 - Incremento (1): melhorias cosméticas ou de baixa prioridade, que não têm um impacto significativo no uso do software.
 
+#### Urgência
 Para a categoria de URGÊNCIA, a rapidez relacionada para a resolução do problema ou criação de uma nova funcionalidade se dispõe entre:
 
 - Urgente (4): problemas ou funcionalidades que requerem uma ação imediata, devido ao seu impacto crítico ou riscos envolvidos.
 - Assim que possível (3): problemas ou funcionalidades importantes, mas que podem aguardar um pouco mais para serem abordados.
 - Pouco urgente (2): problemas ou funcionalidades que têm um impacto menor e podem ser resolvidos em um prazo mais flexível.
 - Pode esperar (1): problemas ou funcionalidades com baixa urgência, que podem ser abordados posteriormente, quando recursos estiverem disponíveis.
+
+#### Criticidade 
+
+A criticidade é uma medida que leva em conta a importância geral de uma issue, considerando a soma das notas de cada categoria (NECESSIDADE e URGÊNCIA). Essa abordagem permite classificar as issues de acordo com sua criticidade e priorizá-las de forma eficiente. A sequência de execução das issues é determinada pela criticidade, onde as issues com maior soma de notas são tratadas primeiro.
+
+A abordagem baseada em criticidade ajuda a otimizar a alocação de recursos e a tomar decisões informadas sobre quais issues devem ser abordadas primeiro. Dessa forma, o projeto de software do repositório da disciplina de Algoritmos e Programação 1 pode garantir uma gestão eficaz das mudanças, focando nos problemas mais relevantes e na melhoria contínua do sistema. A avaliação da criticidade deve ser realizada periodicamente, levando em consideração as alterações nos requisitos, prioridades e urgências ao longo do tempo.
+
+Por exemplo, uma issue com uma nota de 4 em NECESSIDADE e 3 em URGÊNCIA teria uma criticidade total de 7. Isso indica que essa issue tem uma prioridade maior em comparação com outra issue com uma soma total menor de notas.
 
 ![TabelaDeClassificacaoDasCategorias](https://github.com/EngSoft-UFMS/documentation/blob/main/images/Classificacoes%20das%20categorias.png)
 
