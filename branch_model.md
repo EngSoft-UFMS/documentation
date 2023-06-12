@@ -9,13 +9,12 @@ você pode criar uma ramificação chamada "exercicio-uri-####", em que #### é 
 Caso seja um trabalho, você poderá utilizar a branch chamada "trabalho-nomeDoTrabalho".
 
 
-
-
 ### Implemente as alterações:
 
 Implemente as alterações: Na sua nova ramificação,
 faça as alterações necessárias no código, por exemplo, para adicionar a função de um exercício ou do trabalho.
 É recomendável realizar commits frequentes e descritivos, dividindo o trabalho em pequenas alterações lógicas. Lembre-se de usar os commits semânticos.
+
 
 ### Abra um pull request:
 
@@ -23,11 +22,13 @@ Quando você estiver pronto para revisar suas alterações e mesclá-las de volt
 na qual você pode discutir as alterações com outros membros da equipe, realizar revisões de código e resolver quaisquer problemas identificados. Pode ser dúvidas também de como continuar,
 caso você não consiga prosseguir, por exemplo, caso algum exercício peça para fazer uma recursiva e você não consegue fazer, abra a PR e peça ajuda nesta parte.
 
+
 ### Revise e teste as alterações: 
 
 Durante o processo de pull request, outros membros da equipe podem revisar suas alterações,
 fornecer comentários e sugestões. Você pode discutir as alterações e iterar sobre elas conforme necessário.
 Além disso, é importante realizar testes nas suas alterações para garantir que elas funcionem corretamente e não introduzam problemas no projeto.
+
 
 ### Mescle o pull request:
 
