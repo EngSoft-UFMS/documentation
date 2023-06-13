@@ -7,7 +7,8 @@ Crie uma nova ramificação: Para adicionar uma nova funcionalidade ao projeto, 
 Você pode nomear a ramificação de acordo com a funcionalidade que está sendo desenvolvida. Por exemplo, se você está adicionando o código de um exercício do uri,
 você pode criar uma ramificação chamada "exercicio-uri-####", em que #### é o número da questão do uri.
 Caso seja um trabalho, você poderá utilizar a branch chamada "trabalho-nomeDoTrabalho".
-
+O projeto inclui uma ramificação intitulada "correcao", que serve para corrigir os códigos ou funcionalidades que apresentarem algum erro em sua formulação, sempre que um código 
+for alterado para esse fim, essa alteração deve ser realizada nessa branch.
 
 ### Implemente as alterações:
 
