@@ -43,7 +43,7 @@ Os escopos podem ser usados para indicar qual parte do projeto está sendo modif
 - Listas
 - Exercícios Avaliativos
 - Desafios
-- URI
+- Beecrowd
 
 ## Assunto
 O assunto deve ser uma descrição clara e sucinta do que foi feito. Ele deve ser escrito em letras minúsculas e sem ponto final.
