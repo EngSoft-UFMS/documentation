@@ -33,6 +33,7 @@ Os tipos de mensagens de commit devem ser apenas um dentre as opções a seguir:
 - FUNC: Criação de uma função unitária no corpo do código
 - IN: Arquivos de entrada que servem para popular o sistema
 - UPDATE: Atualização de arquivo ou documento contendo nova prescrição/conteúdo
+- CONFLICT: Resolução de conflito 
 
 ## Escopo
 Os escopos podem ser usados para indicar qual parte do projeto está sendo modificada. Alguns exemplos de escopos desta aplicação incluem:
