@@ -52,7 +52,7 @@ A abordagem baseada em criticidade ajuda a otimizar a alocação de recursos e a
 
 Por exemplo, uma issue com uma nota de 4 em NECESSIDADE e 3 em URGÊNCIA teria uma criticidade total de 7. Isso indica que essa issue tem uma prioridade maior em comparação com outra issue com uma soma total menor de notas.
 
-![TabelaDeClassificacaoDasCategorias](https://github.com/EngSoft-UFMS/documentation/blob/main/images/Classificacoes%20das%20categorias.png)
+![TabeladeClassificacaoDasCategorias](https://github.com/EngSoft-UFMS/documentation/assets/127704416/717a839c-f7e6-4abe-962d-dbe506b2726a)
 
 ### Tomada de decisão
 Escolhemos esse formato de classificação de prioridade porque ele permite estabelecer uma ordem clara para as tarefas, com base na importância e urgência. Dessa forma, a equipe pode direcionar seus esforços para resolver os problemas críticos e implementar as funcionalidades necessárias de forma eficiente.
@@ -66,4 +66,4 @@ Os títulos de prioridade serão aplicados às issues do repositório do projeto
 - Uma issue sugerindo uma otimização nos exercícios já existentes para melhorar a clareza ou eficiência da solução seria classificada como "Otimização" e "Pouco urgente".
 - Uma issue propondo uma melhoria cosmética, como a padronização do formato dos arquivos ou a correção de pequenos erros gramaticais nos enunciados, seria classificada como "Incremento" e "Pode esperar".
 
-![TabelaDeExemplos](https://github.com/EngSoft-UFMS/documentation/blob/main/images/Exemplo%20de%20aplicacao.png)
+![TabeladeExemplos](https://github.com/EngSoft-UFMS/documentation/assets/127704416/2857e02e-64ee-410c-8398-ad81fe8100d1)
