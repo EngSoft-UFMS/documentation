@@ -1,4 +1,4 @@
-# Modelo de severidade e prioridade 
+# Modelo de severidade ou prioridade 
 
 ## Severidade do projeto
 O grau de severidade é um conceito importante para avaliar a gravidade dos problemas, guiando a equipe para que apliquem os recursos de maneira eficiente. Ele desempenha um papel crucial no suporte e gereciamento de crises.
@@ -58,7 +58,7 @@ Por exemplo, uma issue com uma nota de 4 em NECESSIDADE e 3 em URGÊNCIA teria u
 Escolhemos esse formato de classificação de prioridade porque ele permite estabelecer uma ordem clara para as tarefas, com base na importância e urgência. Dessa forma, a equipe pode direcionar seus esforços para resolver os problemas críticos e implementar as funcionalidades necessárias de forma eficiente.
 
 ### Aplicação
-Os títulos de prioridade serão aplicados às issues do repositório do projeto, juntamente com os títulos de severidade. Isso permitirá que a equipe tenha uma visão abrangente das prioridades de cada problema ou funcionalidade e possa planejar o agendamento das atividades de acordo. Além disso, a combinação das classificações de severidade e prioridade ajudará a determinar a abordagem adequada para cada tarefa.
+Os títulos de prioridade serão aplicados às issues do repositório do projeto, podendo também usar os títulos de severidade. Isso permitirá que a equipe tenha uma visão abrangente das prioridades de cada problema ou funcionalidade e possa planejar o agendamento das atividades de acordo. Além disso, a utilização das classificações de severidade e prioridade poderá ajudar a determinar a abordagem adequada para cada tarefa.
  
 ### Exemplos
 - Uma issue descrevendo um exercício com um erro grave na solução ou enunciado que afeta a compreensão ou execução correta seria classificada como "Extremamente necessário" e "Urgente".
