@@ -29,5 +29,9 @@ Qualquer alteração na ramificação principal pode ser implantada, mas é impo
 
 5. Mescle o pull request: depois de receber aprovação e concluir todas as revisões e testes necessários, você pode mesclar o pull request na ramificação principal. Isso incorporará suas alterações à versão principal do projeto.
 
+6. Aprovação da pull request: pelo menos duas pessoas da equipe deverá revisar a pull request aberta de outro membro para a mesclagem para a main.
+
+7. Merge: quando a pull request tiver com duas aprovações ou mais, qualquer membro da equipe poderá dar o merge, inclusive aquele que abriu o pull request.
+
 
 
