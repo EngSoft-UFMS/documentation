@@ -17,7 +17,7 @@ Por fim, o GitHub Flow possibilita a implantação contínua das alterações as
 
 
 ## Como usar
-Qualquer alteração na ramificação principal pode ser implantada, mas é importante verificar se existem issues abertas e priorizar as tarefas a serem implementadas.
+Para realizar qualquer alteração é necessário criar uma ramificação a partir da ramificação dev, mas é importante verificar se há uma ramificação aberta com o mesmo objetivo da sua atividade. Além disso, apenas as ramificações dev e "hotfix" podem ser implementadas diretamente na ramificação principal, para as outras necessidades é necessário seguir os seguintes passos:
 
 1. Crie uma nova ramificação: para adicionar uma nova funcionalidade ao projeto, comece criando uma nova ramificação a partir da ramificação principal ("main"). Você pode nomear a ramificação de acordo com a funcionalidade que está sendo desenvolvida. Por exemplo, se você está adicionando o código de um exercício do Beecrowd, você pode criar uma ramificação chamada "exercicio-beecrowd-####", em que #### é o número da questão do Beecrowd. Caso seja um trabalho, você poderá utilizar a branch chamada "trabalho-nomeDoTrabalho". 
 
@@ -33,5 +33,13 @@ Qualquer alteração na ramificação principal pode ser implantada, mas é impo
 
 7. Merge: quando a pull request tiver com duas aprovações ou mais, qualquer membro da equipe poderá dar o merge, inclusive aquele que abriu o pull request.
 
+## Padronização da nomenclatura
 
+A fim de manter uma nomenclatura consistente e organizada, comece o nome da ramificação com o tipo da atividade seguido de um descritor conciso da atividade a ser desenvolvida. 
 
+Por exemplo: 
+
+- feature_header
+- feature_exportar_relatorio
+- feature_importar_dataset
+- bug_correcao_da_validacao_do_tamamnho_do_dataset
